@@ -1,0 +1,13 @@
+    1  cd 
+    2  ls
+    3  cd storage
+    4  ls
+    5  cd shared
+    6  ls
+    7  cd git-basic-exercises
+    8  ls
+    9  git checkout master
+   10  git branch history
+   11  git checkout history
+   12  git log
+   13  history > history.txt
